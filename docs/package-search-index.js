@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cscd212classes.lab3"},{"l":"cscd212classes.lab3.entities"},{"l":"cscd212classes.lab3.entities.characters"},{"l":"cscd212classes.lab4"},{"l":"cscd212classes.lab4.map"},{"l":"cscd212interface.lab3"},{"l":"cscd212lab4"},{"l":"cscd212lib.lab2"},{"l":"cscd212lib.lab4"}]
